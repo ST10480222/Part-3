@@ -57,6 +57,7 @@
     </ApplicationDefinition>
     <Compile Include="respond.cs" />
     <Compile Include="user_name.cs" />
+    <Compile Include="voice_greeting.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
