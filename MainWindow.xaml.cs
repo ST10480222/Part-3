@@ -15,7 +15,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace demo
+namespace Part_3
 {//start of namespace
     //
     public partial class MainWindow : Window
