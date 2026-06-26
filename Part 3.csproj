@@ -56,6 +56,7 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="respond.cs" />
+    <Compile Include="tasks.cs" />
     <Compile Include="training.cs" />
     <Compile Include="user_name.cs" />
     <Compile Include="voice_greeting.cs" />
